@@ -12,7 +12,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: itsOK-BOT ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/TELLYHUBCLOUD/its-OK>itsOK-𝐁𝐎𝐓</a>
