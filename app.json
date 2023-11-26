@@ -1,7 +1,7 @@
 {
     "name": "itsOK-BOT",
     "description": "The Telegram Autofilter Bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
+    "logo": "https://graph.org/file/352ba6e32002e0540c833.jpg",
     "keywords": ["Telegram", "auto-filter", "MrHUB"],
     "repository": "https://github.com/TELLYHUBCLOUD/its-OK",
     "env": {
