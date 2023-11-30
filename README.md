@@ -1,17 +1,17 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=This+is+its+OK+BOT!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+TELLYCLOUD+Bots™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> its OK </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Stars](https://img.shields.io/github/stars/TELLYHUBCLOUD/its-OK?style=flat-square&color=yellow)](https://github.com/TELLYHUBCLOUD/its-OK/stargazers)
+[![Forks](https://img.shields.io/github/forks/TELLYHUBCLOUD/its-OK?style=flat-square&color=orange)](https://github.com/TELLYHUBCLOUD/its-OK/fork)
+[![Size](https://img.shields.io/github/repo-size/TELLYHUBCLOUD/its-OK?style=flat-square&color=green)](https://github.com/TELLYHUBCLOUD/its-OK)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TELLYHUBCLOUD/its-OK)   
+[![Contributors](https://img.shields.io/github/contributors/TELLYHUBCLOUD/its-OK?style=flat-square&color=green)](https://github.com/TELLYHUBCLOUD/its-OK/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://TELLYHUBCLOUD/its-OK/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/TELLYHUBCLOUD/its-OK.svg)](https://stars.medv.io/TELLYHUBCLOUD/its-OK)
 
 <details>
 <summary><b>Features</b></summary>
@@ -78,7 +78,7 @@
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://TELLYHUBCLOUD/its-OK)
 </details>
 
 <details>
@@ -118,15 +118,6 @@ broadcast - to broadcast a message to all Eva Maria users
 ```
 </details>
 
-## TELAGRAM SUPPORT 
-
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
-
-## Credit 💞
-
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
-
-* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
 
 
 ## Disclaimer
