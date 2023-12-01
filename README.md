@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=This+is+its+OK+BOT!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+TELLYCLOUD+Bots™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/756147/screenshots/3717193/media/913d7ff75d531065694c46c9f602d43f.gif" alt="Awesome Filter Logo">
+  </p>
+  <h1 align="center">
 
 <h1 align="center">
   <b> its OK </b>
