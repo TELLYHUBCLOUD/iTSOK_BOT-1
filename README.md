@@ -84,6 +84,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELLYHUBCLOUD/iTSOK_BOT-1)
 </details>
 
+[𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐓𝐄𝐋𝐋𝐘𝐂𝐋𝐎𝐔𝐃 𝐁𝐎𝐓𝐒](https://t.me/TELLYCLOUD_Bots)
+
 <details>
 <summary><b>Deploy to Koyeb</b></summary>
 
